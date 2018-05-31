@@ -23,10 +23,10 @@ audience: Admin
 
 Since its launch in Spring release, Dynamics 365 for Marketing continues to see
 good traction with businesses to support their digital transformation. The
-capabilities in the Autumn ’18 release extend the reach and improve the funnel
+capabilities in the October ’18 release extend the reach and improve the funnel
 velocity with deeper intelligence. New features range from Account Based
 Marketing, custom reporting based on Power BI, to enabling predictive lead
-scoring.
+scoring. We also expand our [reach](https://aka.ms/dynamics_365_international_availability_deck) to 108 markets with 15 additional languages.
 
 The key themes for this release empower even broader digital transformation
 across business apps:
