@@ -2,15 +2,15 @@
 
 title: Emails sent from guide creator
 description: 
-author: trisaacs
-manager: trisaacs
+author: tbisaacs
+manager: tbisaacs
 ms.date: 06/01/2018
 ms.assetid: 
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: trisaacs
+ms.author: tbisaacs
 audience: Admin
 
 ---
