@@ -14,7 +14,7 @@ audience: end user
 
 ---
 
-# Remove resource image from schedule board when the row height cuts off image
+# Remove resourced image from schedule board when the row height cuts off image
 
 In the previous release, we released a feature that allows you to shrink the height of each resource row, thereby enabling resource managers to [view more resources on the board in a single glance](https://blogs.msdn.microsoft.com/crm/2018/04/02/whats-new-in-universal-resource-scheduling-for-dynamics-365-april-2018-update/#displaymoreresources). However, depending on the row height, the resource image got cut off. Now, we simply remove the resource image from the resource cell when the height is too small. 
 
