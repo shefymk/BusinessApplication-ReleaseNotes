@@ -18,6 +18,6 @@ audience: end user
 
 Primary actions such as "book" are designed with a background to attract the user’s attention.
 
-![Screenshot of the previous button styles in panels](style-change-buttons-panels-1.png)
+![Screenshot of the previous button styles in panels](media/style-change-buttons-panels-1.png)
 
-![Screenshot of the new button styles in panels](style-change-buttons-panels-2.png)
+![Screenshot of the new button styles in panels](media/style-change-buttons-panels-2.png)
