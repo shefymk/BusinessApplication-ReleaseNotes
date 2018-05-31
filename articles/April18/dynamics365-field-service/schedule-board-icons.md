@@ -18,6 +18,8 @@ audience: end user
 
 Previously, schedule board views that weren’t selected would appear gray, giving the impression that they were disabled. Now they are simply underlined instead.
 
-![Screenshot of schedule board icons before the update](schedule-board-icons-1.png)
+Here were the icons before the update:
+![Screenshot of schedule board icons before the update](media/schedule-board-icons-1.png)
 
-![Screenshot of schedule board icons after the update](schedule-board-icons-2.png)
+And here are the icons after the update:
+![Screenshot of schedule board icons after the update](media/schedule-board-icons-2.png)
