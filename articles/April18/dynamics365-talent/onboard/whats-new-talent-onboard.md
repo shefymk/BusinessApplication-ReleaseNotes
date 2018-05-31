@@ -32,7 +32,7 @@ audience: Admin
 
 - [iFrame add-in](iframe-add-in.md).
 - [Guide back-dating](guide-back-dating.md).
-- [Auto-generated contacts](auto-generated-contacts).
+- [Auto-generated contacts](auto-generated-contacts.md).
 
 ## June ’18 – Public Preview
 
