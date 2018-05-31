@@ -49,3 +49,18 @@ audience: Admin
 - [Synchronization of device conditions and properties with device twins](connected-iot-enhancements.md).
 - [Synchronization of device tags with device twins](connected-iot-enhancements.md).
 - [Configuration of device properties and commands through device categories](connected-iot-enhancements.md).
+
+## May ’18 – General Availability
+
+### Universal Resource Scheduling (URS) solution
+- [New interactions and options when booking on hourly schedule board](new-schedule-board-interactions.md)
+- [Styling change to buttons in panels](styling-change-buttons-panels.md)
+- [Schedule board view icons](schedule-board-icons.md)
+- [Removed resource image from schedule board when the row height cuts off image](removed-resource-image.md)
+- [Ignore proposed bookings enhancements](ignore-proposed-bookings.md)
+- [New booking panel interactions](new-booking-panel-interactions.md)
+- [Label change for zoom functionality](label-change-zoom.md)
+- [Removed redundant cancel options from mutliday boards](removed-redundant-cancel-option.md)
+- [Resource search bar style updates](resource-search-bar-styling.md)
+- [Display notification on booking requirements grid when no results found](new-notifications-booking-requirements.md)
+- [Double-click timing](double-click-timing.md)
