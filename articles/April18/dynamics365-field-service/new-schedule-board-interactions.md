@@ -16,6 +16,8 @@ audience: end user
 
 # New interactions and options when booking on hourly schedule board
 
+[!include[banner](../../includes/banner.md)]
+
 Select a specific status, including "proposed" statuses, when booking from the hourly board.
 
 The default status from the booking setup metadata (BSM) record will be the default "committed" status for that "booking type."
