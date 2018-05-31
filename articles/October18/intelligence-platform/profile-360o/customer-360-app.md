@@ -23,28 +23,19 @@ Customers, both existing and potential, leave digital footprints. Every web
 search, tweet, support call, event registration, purchase, or interaction with a
 connected product or digitally-intermediated service provides clues to the
 intent, interests, and demographics of that person. Customer journey management
-requires the unification of data across marketing, sales, service, and
-operations. Power BI now provides a highly flexible Customer 360° Power BI app
+requires the unification of data silos across marketing, sales, service, and
+operations. Dynamics 365 now make available a highly flexible Customer 360° app
 which can be easily adapted to provide relevant insights to specific customer
-facing roles like service agents, campaign managers, or sales professionals. By
-applying the new Profile 360° capabilities to the domain of customer engagement,
-Power BI Customer 360° reduces the time to implement “single view of the
-customer” programs by orders of magnitude.
-
-The Customer 360° application includes the following core capabilities:
+facing roles like service agents, campaign managers, or sales professionals. Customer 360° reduces the time to implement “360° view of a customer” programs by orders of magnitude.
 
 | ![](media/customer-360-app-1.png "")
 <!-- picture -->
- | the ability to fully understand the customer journey across channels by using contextual information and artificial intelligence to match known customers with the activities and profiles of previously unknown customers. |
-|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
--   the ability for business users to define key customer related measures and
-    KPI’s (e.g. engagement score, customer lifetime value, net promoter score,
-    customer satisfaction) and then see the complete customer journey updated in
-    near-real time, with all related KPI’s, as new data arrives.
+The Customer 360° application includes the following core capabilities:
 
-Customer 360 enables business end users to discover and test drive the
-application in under 5 minutes. Furthermore, Power BI provides an easy wizard
-like experience to adapt the out-of-the box data visualizations, metrics and
-predictive analytics results to a specific business model or industry.
+1.	Bring customer and activities data from various data silos within an organization that is matched and conflated to generate Customer 360° view. 
+2.	Enrich 360° customer profiles with proprietary Microsoft Audience Intelligence & AI/ML models.
+3.	The ability to fully understand the customer journey across channels by using contextual information and artificial intelligence to match known customers with the activities and profiles of previously unknown customers to derive insights & drive actions across the customer journey. 
+4. Customer 360 also enables business users to discover and test drive the application with just clicks and no code. 
+
