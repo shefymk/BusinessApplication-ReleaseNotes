@@ -58,11 +58,8 @@ in their data using AI and natural user experiences.
     metrics and alert them of significant changes, so they can stay ahead of the
     curve.
 
--   **Power BI catalog.** Today we are announcing the public preview of Power BI
-    catalog, a data catalog service natively integrated with Power BI. Power BI
-    Catalog is designed to help enterprises get the most value from their
+-   **Power BI governance.** Today we are announcing the public preview of new governance capabilities integrated with Power BI. Get the most value from your
     existing assets and to make data sources easily discoverable and
     understandable by the users who manage data. Key features include auto
     tagging and detection of data assets in Power BI containing Personally
-    Identifiable Information (PII), and the ability to promote and consume
-    recommended/certified/master datasets across an organization.
+    Identifiable Information (PII) and the ability to promote and certify datasets across an organization.
