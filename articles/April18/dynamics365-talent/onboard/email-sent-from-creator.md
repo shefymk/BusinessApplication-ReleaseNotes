@@ -14,7 +14,8 @@ ms.author: trisaacs
 audience: Admin
 
 ---
-#  Import 
+#  Emails sent from the guide creator 
 
 [!include[banner](../../../includes/banner.md)]
 
+For a more pesonalized touch, the welcome email and notification emails sent to your new hires now come directly from the guide creator instead of a Dynamics 365 service account. 

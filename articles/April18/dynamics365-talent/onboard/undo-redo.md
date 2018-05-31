@@ -14,10 +14,11 @@ ms.author: trisaacs
 audience: Admin
 
 ---
-#  Assignee placeholders 
+#  Undo-redo
 
 [!include[banner](../../../includes/banner.md)]
 
 [!include[banner](../../../includes/public-preview.md)]
 
 
+Quickly undo and redo changes as you are working your templates or guides.

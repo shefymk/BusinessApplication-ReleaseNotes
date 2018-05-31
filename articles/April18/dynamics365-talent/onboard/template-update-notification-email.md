@@ -14,9 +14,10 @@ ms.author: trisaacs
 audience: Admin
 
 ---
-#  Assignee placeholders 
+#  Template update notification email
 
 [!include[banner](../../../includes/banner.md)]
 
 [!include[banner](../../../includes/public-preview.md)]
 
+Guide creators will be automatically notified via email when a template they are using has been updated. Recipients will recieve a digest email detailing what has changed in the template.

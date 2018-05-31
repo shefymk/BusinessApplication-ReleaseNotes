@@ -14,7 +14,8 @@ ms.author: trisaacs
 audience: Admin
 
 ---
-#  Import 
+#  iFrame add-in 
 
 [!include[banner](../../../includes/banner.md)]
 
+New add-in to include other websites or Office Forms in an onboarding guide. This add-in is useful for embedding questionnaires or surveys.

@@ -41,6 +41,6 @@ audience: Admin
 - [Template update notification email](template-update-notification-email.md).
 
 ## Late Summer Public Preview
-- [Import](customizable-welcome-emails.md) activities from other guides or templates.
+- [Import](import.md) activities from other guides or templates.
 - [Assignee placeholders](assignee-placeholders.md)
 - [Managed activities](managed-activities.md)

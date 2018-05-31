@@ -14,9 +14,10 @@ ms.author: trisaacs
 audience: Admin
 
 ---
-#  Assignee placeholders 
+#  Auto-save
 
 [!include[banner](../../../includes/banner.md)]
 
 [!include[banner](../../../includes/public-preview.md)]
 
+Don't worry about saving or losing your work again. Your onboarding guides and templates will be automatically saved as you work.

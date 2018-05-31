@@ -14,7 +14,8 @@ ms.author: trisaacs
 audience: Admin
 
 ---
-#  Import 
+#  Guide back-dating
 
 [!include[banner](../../../includes/banner.md)]
 
+Create onboarding guides for new hires that have a start date in the past. 

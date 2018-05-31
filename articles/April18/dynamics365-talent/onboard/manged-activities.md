@@ -14,9 +14,10 @@ ms.author: trisaacs
 audience: Admin
 
 ---
-#  Assignee placeholders 
+#  Managed activities
 
 [!include[banner](../../../includes/banner.md)]
 
 [!include[banner](../../../includes/public-preview.md)]
 
+Onboarding content updates can be managed and synchronized to effected guides and templates with a tap. This feature will also include the ability to combine multiple guides via import.

@@ -14,7 +14,8 @@ ms.author: trisaacs
 audience: Admin
 
 ---
-#  Import 
+#  Auto-generated contacts
 
 [!include[banner](../../../includes/banner.md)]
 
+Assignees and helpers are now automatically added as contacts on the Contacts portion of the onboarding guide.
