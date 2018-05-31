@@ -16,6 +16,8 @@ audience: end user
 
 # Double-click timing
 
+[!include[banner](../../includes/banner.md)]
+
 On our daily, weekly, and monthly schedule boards, there are multiple interactions that require users to select (single-click) a resource cell or a day, week, or month, but just in case users double-click, we interpret the user intention and treat it as a normal "select.
 
-![Screenshot of selected resource](double-click-timing.png)
+![Screenshot of selected resource](media/double-click-timing.png)
