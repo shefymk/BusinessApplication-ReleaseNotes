@@ -20,6 +20,8 @@ audience: end user
 
 Resource managers often search through the booking requirements grid at the bottom of the schedule board. We wanted to make the interaction more responsive in case there are no results that match the search criteria. Instead of whitespace, a message is shown to the user.
 
+Here's what the "no results" state looked like before: 
 ![Screenshot of previous state of the booking requirements grid with no results shown](media/new-notifications-booking-requirements-1.png)
 
+And here's what the same state looks like after the update:
 ![Screenshot of new state of the booking requirements grid with no results shown](media/new-notifications-booking-requirements-2.png)
