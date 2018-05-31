@@ -16,4 +16,6 @@ audience: end user
 
 # Resource search bar styling
 
+[!include[banner](../../includes/banner.md)]
+
 We’ve updated the resource search bar styling to include a narrower search area with a border. This will help new users find the search bar easily.
