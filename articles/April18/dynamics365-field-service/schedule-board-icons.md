@@ -16,6 +16,8 @@ audience: end user
 
 # Schedule board view icons
 
+[!include[banner](../../includes/banner.md)]
+
 Previously, schedule board views that weren’t selected would appear gray, giving the impression that they were disabled. Now they are simply underlined instead.
 
 Here were the icons before the update:
