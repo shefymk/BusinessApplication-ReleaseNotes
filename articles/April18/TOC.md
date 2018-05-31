@@ -74,7 +74,7 @@
 #### [Keep the context when substituting a resource via search](dynamics365-field-service/keep-context-searching-availability-substituting-resource.md)
 #### [Schedule board extensibility enhancements](dynamics365-field-service/schedule-board-extensibility-enhancements.md)
 #### [New interactions and options when booking on hourly schedule board](dynamics365-field-service/new-schedule-board-interactions.md)
-#### [Styling change to buttons in panels](dynamics365-field-service/styling-change-button-panels.md)
+#### [Styling change to buttons in panels](dynamics365-field-service/styling-change-buttons-panels.md)
 #### [Schedule board view icons](dynamics365-field-service/schedule-board-icons.md)
 #### [Removed resource image from schedule board when the row height cuts off image](dynamics365-field-service/removed-resource-image.md)
 #### [Ignore proposed bookings enhancements](dynamics365-field-service/ignore-proposed-bookings.md)
