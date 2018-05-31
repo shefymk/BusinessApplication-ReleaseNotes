@@ -16,6 +16,8 @@ audience: end user
 
 # Styling change to buttons in panels
 
+[!include[banner](../../includes/banner.md)]
+
 Primary actions such as "book" are designed with a background to attract the user’s attention.
 
 Here is the previous button style: 
