@@ -41,11 +41,10 @@ the tools they need to create rich Power BI content with ease.
 
 Power BI Desktop continues to leverage AI and natural language to make authors’
 lives easier, bringing even more intelligence and insight into Power BI reports.
-Authors can now tag specific visuals as answers to questions that their users
-might ask using Q&A. By leveraging new telemetry from Power BI, ISVs can learn
-how Q&A is being used in their Power BI Apps and use this data to improve their
-Q&A results. In addition, authors now have more control over Quick Insights,
-specifying which categories should be surfaced in the results for specific
-measures. These new capabilities allow the report author to ensure their users
-get the best results when working with Q&A and Quick Insights, by leveraging
-both AI and the specific domain knowledge only the author can bring.
+By leveraging new telemetry from Power BI, ISVs can learn how Q&A is being used
+in their Power BI Apps and use this data to improve their Q&A results. In
+addition, authors now have more control over Quick Insights, specifying which
+categories should be surfaced in the results for specific measures. These new
+capabilities allow the report author to ensure their users get the best results
+when working with Q&A and Quick Insights, by leveraging both AI and the specific
+domain knowledge only the author can bring.
