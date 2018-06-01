@@ -25,10 +25,11 @@ Customers, both existing and potential, leave digital footprints. Every web sear
 <!-- picture -->
 
 
-The Customer 360 application includes the following core capabilities:
+The Customer 360 includes the following core capabilities:
 
-1.	Bring customer and activities data from various data silos within an organization that is matched and conflated to generate Customer 360 view. 
-2.	Enrich 360 customer profiles with proprietary Microsoft Audience Intelligence & AI/ML models.
-3.	The ability to fully understand the customer journey across channels by using contextual information and artificial intelligence to match known customers with the activities and profiles of previously unknown customers to derive insights & drive actions across the customer journey. 
-4. Customer 360 also enables business users to discover and test drive the application with just clicks and no code. 
+1.	Bring together customer and activities data from various data silos within an organization.
+2.  Match and conflate customer data to generate customer 360 profiles. 
+3.	Enrich customer 360 profiles with proprietary Microsoft Audience Intelligence & AI/ML models.
+4.	Use the customer 360 knowledge to derive insights & drive actions across the customer journey. 
+5.	Customer 360 also makes available a test drive experience for business users to discover and evaluate the application with just clicks and no code. 
 
