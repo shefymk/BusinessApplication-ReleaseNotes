@@ -19,7 +19,7 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
-Customers, both existing and potential, leave digital footprints. Every web search, tweet, support call, event registration, purchase, or interaction with a connected product or digitally-intermediated service provides clues to the intent, interests, and demographics of that person. Digital transformation initiatives targeted at engaging customers better require organizations to unify and use all their customer data — how, when, and where they need it. 
+Digital transformation initiatives targeted at engaging customers better require organizations to unify and use all their customer data — how, when, and where they need it. 
 
 | ![](media/customer-360-app-1.png "")
 <!-- picture -->
